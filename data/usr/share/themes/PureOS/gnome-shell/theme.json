@@ -1,0 +1,8 @@
+{ 
+   "shell-theme": {
+   "name": "PureOS", 
+   "author": "PureOS GNU/Linux developers", 
+   "version": "1.0",
+   "type":   "custom",
+      }
+}

@@ -1,0 +1,8 @@
+debian/pureos-gtk-theme/*
+debian/files
+.*.swp
+.*.swo
+*~
+
+debian/*.log
+debian/*.substvars

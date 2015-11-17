@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=PureOS
+Comment=Default PureOS theme, based on Zukitre (github.com/lassekongo83)
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=PureOS
+MetacityTheme=PureOS
+ButtonLayout=:minimize,maximize,close

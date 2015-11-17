@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=PureOS
+Type=X-GNOME-Metatheme
+Comment=PureOS 1.x Theme, based on Zukitwo http://lassekongo83.deviantart.com/
+
+[X-GNOME-Metatheme]
+GtkTheme=PureOS
+MetacityTheme=PureOS
+IconTheme=pureos
+CursorTheme=DMZ-White

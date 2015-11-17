@@ -1,0 +1,7 @@
+pureos-theme (1.1.0) stable; urgency=medium
+
+  * Updated font selections.
+  * Default Ek Mukta fonts.
+
+ -- PureOS GNU/Linux developers <dev@puri.sm>  Wed, 20 May 2015 17:36:14 -0700
+
